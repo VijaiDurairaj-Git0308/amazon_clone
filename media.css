@@ -1,0 +1,11 @@
+@media screen and (max-width:924px){
+   .three,.five{
+    display: none;
+
+   }
+   .four{
+    width: 10em;
+   }
+ 
+    
+}
